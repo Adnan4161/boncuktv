@@ -203,8 +203,6 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="Cine1.tr" tvg-logo="https://cdn.technettv.com/channel/20336/logo_256_1707397598.png" ,Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 group-title="SİNEMA" tvg-id="ŞabanTV" tvg-logo="https://image.winudf.com/v2/image1/c2FiYW4udHZfaWNvbl8xNjAzODczNDgxXzAxMw/icon.png?w=280&fakeurl=1" ,Şaban TV
-https://catcast-tv.koprulu2.workers.dev/?id=49905.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="TV360.tr" tvg-logo="https://cdn.technettv.com/channel/20637/logo_256_1699962172.png" ,TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="AlanyaTV.tr" tvg-logo="https://cdn.technettv.com/channel/14330/logo_256_1700632987.png" ,Alanya TV
