@@ -9,8 +9,6 @@ https://boncuktv.atakan1983.workers.dev/showtv
 https://boncuktv.atakan1983.workers.dev/startv
 #EXTINF:-1 group-title="Ulusal" tvg-id="StarTV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,Star TV (alternatif
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-id="EuroStarTV.tr" tvg-logo="https://www.eurostartv.com.tr/img/eurostar-logo.png" ,Euro Star TV
-https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=Euro-Star&ext=m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="KanalD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" ,Kanal D
 https://boncuktv.atakan1983.workers.dev/kanald
 #EXTINF:-1 group-title="Ulusal" tvg-id="KanalD.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png" ,Euro D
@@ -148,7 +146,7 @@ http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/219402
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="https://r.resimlink.com/qRYv_XGByCfH.png",Titan Docu
 http://vip99nx.xyz:80/live/msavustmakbule/a.29112020bas/860659.ts
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png?20150615101642",Yaban TV
-http://ss.wancolonel.xyz:8080/Redear/gWFBhHX/484
+http://116.202.238.88/YABANTV_TR/index.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="BELGESEL",Viasat Explore
 http://4k.nxdns6.com:8080/Talhakucuk0512/QRFVUTu4PqqX/155501
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://cdn.technettv.com/channel/20609/logo_256_1699961655.png" ,TRT Belgesel
