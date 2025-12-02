@@ -22,7 +22,7 @@ https://boncuktv.atakan1983.workers.dev/kanal7
 #EXTINF:-1 group-title="Ulusal" tvg-id="Kanal7Avrupa.tr" tvg-logo="https://cdn.technettv.com/channel/29723/logo_256_1734935765.png" ,Kanal 7 Avrupa
 https://boncuktv.atakan1983.workers.dev/kanal7avrupa
 #EXTINF:-1 group-title="HABER" tvg-id="TRTHaber.tr" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" ,TRT Haber
-https://boncuktv.atakan1983.workers.dev/trthaber
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="ANews.tr" tvg-logo="https://cdn.technettv.com/channel/22954/logo_256_1707397466.png" ,A News
 https://boncuktv.atakan1983.workers.dev/anews
 #EXTINF:-1 group-title="HABER" tvg-id="Ulketv.tr" tvg-logo="https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png" , Ülke TV
