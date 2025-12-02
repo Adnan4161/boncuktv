@@ -18,7 +18,7 @@ https://boncuktv.atakan1983.workers.dev/tv85
 #EXTINF:-1 group-title="Ulusal" tvg-id="NOW.tr" tvg-logo="https://cdn.technettv.com/channel/33783/logo_256.png" ,NOW
 https://boncuktv.atakan1983.workers.dev/now
 #EXTINF:-1 group-title="Ulusal" tvg-id="ShowTurk.tr" tvg-logo="https://cdn.technettv.com/channel/20560/logo_256.png" ,Show Turk
-http://nrvmobil.com:2095/snm3259/bh.s200/52167
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1764687788&st=7QbvhwCKIgLMX73lKbYdiw&tv=1
 #EXTINF:-1 group-title="Ulusal" tvg-id="Kanal7.tr" tvg-logo="https://cdn.technettv.com/channel/29485/logo_256_1733831753.png" ,Kanal 7
 https://boncuktv.atakan1983.workers.dev/kanal7
 #EXTINF:-1 group-title="Ulusal" tvg-id="Kanal7Avrupa.tr" tvg-logo="https://cdn.technettv.com/channel/29723/logo_256_1734935765.png" ,Kanal 7 Avrupa
