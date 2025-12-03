@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 #EXTINF:-1 group-title="Ulusal" tvg-id="KanalD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" ,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=77u7w792hndx&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 group-title="Ulusal" tvg-id="ATV.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" ,ATV
-http://honeywatch.net:80/play/live.php?mac=00:1A:79:BA:9E:AE&stream=912479&extension=ts&play_token=XMfzAK5Htq
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1764811958&st=xI2qPLdeyCp8W9uM70JExQ&sid=7yss2zyjm0fb&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1 group-title="Ulusal" tvg-id="TV8.tr" tvg-logo="https://cdn.technettv.com/channel/33790/logo_256.png" ,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=b2beb6d20eb61a441ab94d9a33995258
 #EXTINF:-1 group-title="Ulusal" tvg-id="TV8.5.tr" tvg-logo="https://cdn.technettv.com/channel/33958/logo_256.png" ,TV8.5
