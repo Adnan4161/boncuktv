@@ -1,26 +1,31 @@
 #EXTM3U
 #EXTINF:-1 group-title="Ulusal" tvg-id="TRT1.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-id="TRT2.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-id="ShowTV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=b2beb6d20eb61a441ab94d9a33995258
-#EXTINF:-1 group-title="Ulusal" tvg-id="StarTV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,Star TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="KanalD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" ,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=77u7w792hndx&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 group-title="Ulusal" tvg-id="ATV.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" ,ATV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1764811958&st=xI2qPLdeyCp8W9uM70JExQ&sid=7yss2zyjm0fb&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:-1 group-title="Ulusal" tvg-id="ShowTV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=b2beb6d20eb61a441ab94d9a33995258
+#EXTINF:-1 group-title="Ulusal" tvg-id="NOW.tr" tvg-logo="https://cdn.technettv.com/channel/33783/logo_256.png" ,NOW
+https://boncuktv.atakan1983.workers.dev/now
+#EXTINF:-1 group-title="Ulusal" tvg-id="StarTV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,Star TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="TV8.tr" tvg-logo="https://cdn.technettv.com/channel/33790/logo_256.png" ,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=b2beb6d20eb61a441ab94d9a33995258
 #EXTINF:-1 group-title="Ulusal" tvg-id="TV8.5.tr" tvg-logo="https://cdn.technettv.com/channel/33958/logo_256.png" ,TV8.5
 https://boncuktv.atakan1983.workers.dev/tv85
-#EXTINF:-1 group-title="Ulusal" tvg-id="NOW.tr" tvg-logo="https://cdn.technettv.com/channel/33783/logo_256.png" ,NOW
-https://boncuktv.atakan1983.workers.dev/now
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT2.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="Kanal7.tr" tvg-logo="https://cdn.technettv.com/channel/29485/logo_256_1733831753.png" ,Kanal 7
 https://boncuktv.atakan1983.workers.dev/kanal7
 #EXTINF:-1 group-title="Ulusal" tvg-id="Kanal7Avrupa.tr" tvg-logo="https://cdn.technettv.com/channel/29723/logo_256_1734935765.png" ,Kanal 7 Avrupa
 https://boncuktv.atakan1983.workers.dev/kanal7avrupa
+#EXTINF:-1 group-title="Ulusal" tvg-id="BeyazTV.tr" tvg-logo="https://cdn.technettv.com/channel/22982/logo_256_1707397409.png" ,Beyaz TV
+https://boncuktv.atakan1983.workers.dev/beyaztv
+#EXTINF:-1 group-title="Ulusal" tvg-id="KanalB.tr" tvg-logo="https://www.kanalb.com.tr/assets/images/logo/1683890679Kanal_B_logosu.png" ,Kanal B
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
 #EXTINF:-1 group-title="HABER" tvg-id="TRTHaber.tr" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" ,TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="ANews.tr" tvg-logo="https://cdn.technettv.com/channel/22954/logo_256_1707397466.png" ,A News
@@ -161,8 +166,7 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 https://boncuktv.atakan1983.workers.dev/trtavaz
 #EXTINF:-1 group-title="Ulusal" tvg-id="TRTTurk.tr" tvg-logo="https://cdn.technettv.com/channel/29492/logo_256_1733831875.jpg" ,TRT Türk
 https://boncuktv.atakan1983.workers.dev/trtturk
-#EXTINF:-1 group-title="Ulusal" tvg-id="BeyazTV.tr" tvg-logo="https://cdn.technettv.com/channel/22982/logo_256_1707397409.png" ,Beyaz TV
-https://boncuktv.atakan1983.workers.dev/beyaztv
+
 #EXTINF:-1 group-title="Ulusal" tvg-id="Teve2.tr" tvg-logo="https://cdn.technettv.com/channel/22968/logo_256_1707397507.png" ,Teve 2
 https://boncuktv.atakan1983.workers.dev/teve2
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="LIFETV.tr" tvg-logo="https://cdn.technettv.com/channel/19412/logo_256_1699950927.png" ,LIFE TV
