@@ -4,7 +4,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="KanalD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" ,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=77u7w792hndx&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 group-title="Ulusal" tvg-id="ATV.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" ,ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1764811958&st=xI2qPLdeyCp8W9uM70JExQ&sid=7yss2zyjm0fb&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=4QxmG9gz1qaj9NqJrUskYg&e=1765412829&ppid=0d178b73f8e01f387b7ffed5c8636b1c
 #EXTINF:-1 group-title="Ulusal" tvg-id="ShowTV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=b2beb6d20eb61a441ab94d9a33995258
 #EXTINF:-1 group-title="Ulusal" tvg-id="NOW.tr" tvg-logo="https://cdn.technettv.com/channel/33783/logo_256.png" ,NOW
