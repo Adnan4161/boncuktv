@@ -35,7 +35,7 @@ https://boncuktv.atakan1983.workers.dev/trtturk
 https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="ANews.tr" tvg-logo="https://cdn.technettv.com/channel/22954/logo_256_1707397466.png" ,A News
 https://boncuktv.atakan1983.workers.dev/anews
-#EXTINF:-1 group-title="HABER" tvg-id="Ulketv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg" , Ülke TV
+#EXTINF:-1 group-title="HABER" tvg-id="Ulketv.tr" tvg-logo="https://store.donanimhaber.com/12/63/e6/1263e6ae4bbf3a3e362f6b5100cc5d21.jpg" , Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-logo="https://cdn.technettv.com/channel/20546/logo_256_1707397575.png" ,NTV
 https://boncuktv.atakan1983.workers.dev/ntv
