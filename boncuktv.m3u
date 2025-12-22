@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=b2beb6d20eb61a441ab94d9a33995258
 #EXTINF:-1 group-title="Ulusal" tvg-id="TV8.5.tr" tvg-logo="https://cdn.technettv.com/channel/33958/logo_256.png" ,TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=7374bf049d7ceea34db2f9b1b391c7e3
-#EXTINF:-1 group-title="Ulusal" tvg-id="TRT2.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
+#EXTINF:-1 group-title="Ulusal" tvg-id="TRT2.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-2-tr.svg" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/sdZPTy3P/kanal7.png" ,Kanal 7
 http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/72512.ts
@@ -31,13 +31,11 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="TRTTurk.tr" tvg-logo="https://cdn.technettv.com/channel/29492/logo_256_1733831875.jpg" ,TRT Türk
 https://boncuktv.atakan1983.workers.dev/trtturk
-
-
 #EXTINF:-1 group-title="HABER" tvg-id="TRTHaber.tr" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" ,TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="ANews.tr" tvg-logo="https://cdn.technettv.com/channel/22954/logo_256_1707397466.png" ,A News
 https://boncuktv.atakan1983.workers.dev/anews
-#EXTINF:-1 group-title="HABER" tvg-id="Ulketv.tr" tvg-logo="https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png" , Ülke TV
+#EXTINF:-1 group-title="HABER" tvg-id="Ulketv.tr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg" , Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-logo="https://cdn.technettv.com/channel/20546/logo_256_1707397575.png" ,NTV
 https://boncuktv.atakan1983.workers.dev/ntv
